@@ -1,0 +1,38 @@
+.container {
+	background: #EBEBEB;
+	width: 100%;
+	margin: auto;
+}
+
+#navbar {
+	
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #5D737E;
+}
+
+li {
+	float: left;
+	background: #5D737E;
+}
+
+li a {
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	color: #EBEBEB;
+	text-decoration-style: none;
+}
+
+li a:hover {
+	background: #052230;
+}
+
+h1 {
+	clear:both;
+}
