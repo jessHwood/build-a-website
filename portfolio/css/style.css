@@ -2,4 +2,109 @@
 	background: #EBEBEB;
 	width: 100%;
 	margin: auto;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #5D737E;
+}
+
+li {
+	float: left;
+	background: #5D737E;
+}
+
+li a {
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	color: #EBEBEB;
+	text-decoration-style: none;
+}
+
+li a:hover {
+	background: #052230;
+}
+
+
+h1 {
+	clear:both;
+	text-align: center;
+	font-weight: 700;
+	padding: 40px;
+	color: #052230;
+	font-size: 35px;
+}
+
+body {
+	width: 100%;
+	margin: auto;
+}
+
+.bodytext {
+	width: 70%;
+	margin: auto;
+	text-align: justify;
+	border: 1px solid #331629;
+	padding: 5px;
+
+}
+
+.image {
+	text-align: center;
+	margin: auto;
+	display: block;
+	padding: 15px;
+}
+
+
+h2 {
+	font-weight: 400;
+	color: #052230;
+	text-align: left;
+	padding: 10px;
+	font-size: 24px;
+	font-weight: 400;
+	color: #EBEBEB;
+	text-align: left;
+	background: #052230;
+	padding: 10px;
+}
+
+p.experiencetxt {
+	font-size: 24px;
+	background: #EBEBEB;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: 400;
+	color: #EBEBEB;
+	text-align: left;
+	background: #052230;
+	padding: 10px;
+}
+
+.portfoliodescrip {
+	width: 80%;
+	margin: auto;
+}
+
+h4 {
+	font-weight: 400;
+	font-size: 25px;
+}
+p {
+	padding: 20px;
+	font-weight: 300;
+	font-size: 20px;
+
+}
+
+footer {
+	clear: both;
 }

@@ -2,11 +2,9 @@
 	background: #EBEBEB;
 	width: 100%;
 	margin: auto;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
-#navbar {
-	
-}
 
 ul {
 	list-style-type: none;
@@ -35,4 +33,52 @@ li a:hover {
 
 h1 {
 	clear:both;
+	text-align: center;
+	font-weight: 700;
+	padding: 20px;
+	color: #052230;
+	font-size: 35px;
+}
+
+body {
+	width: 100%;
+	margin: auto;
+}
+
+.developerblurb {
+	width: 60%;
+	height: 200px;
+	margin: auto;
+	padding: 30px;
+
+}
+
+
+h2 {
+	font-weight: 400;
+	color: #EBEBEB;
+	text-align: left;
+	background: #5D737E;
+	padding: 10px;
+}
+
+p {
+	padding: 20px;
+	font-weight: 300;
+	float:left;
+	font-size: 24px;
+
+}
+
+#mypic {
+	float: right;
+	border: 10px solid #331629;
+}
+
+img {
+	margin-left: 15px;
+}
+
+footer {
+	clear: both;
 }
